@@ -1,0 +1,6 @@
+C:\Users\Z\Desktop\task8-(32)\task8-(32)\bin\Debug\task8-(32).exe.config
+C:\Users\Z\Desktop\task8-(32)\task8-(32)\bin\Debug\task8-(32).exe
+C:\Users\Z\Desktop\task8-(32)\task8-(32)\bin\Debug\task8-(32).pdb
+C:\Users\Z\Desktop\task8-(32)\task8-(32)\obj\Debug\task8-(32).csprojResolveAssemblyReference.cache
+C:\Users\Z\Desktop\task8-(32)\task8-(32)\obj\Debug\task8-(32).exe
+C:\Users\Z\Desktop\task8-(32)\task8-(32)\obj\Debug\task8-(32).pdb
